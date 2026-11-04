@@ -1,0 +1,28 @@
+Job description
+As a leading technology innovator, Qualcomm pushes the boundaries of what's possible to enable next generation experiences in area of integrated chipsets that power advanced mobile devices, XR/IoT/Automotive & compute platforms. As a Qualcomm's XR Technology Software Engineer you will design, develop, create, modify next generation technologies & platforms enabling the future of Augmented Reality / Virtual Reality / Mixed Reality applications.
+
+
+Principal Duties and Responsibilities
+
+Work closely with a cross functional team to understand AR/VR use case requirements, dataflows, and HW/SW partitioning
+Work closely with technology, hardware, and software experts to translate use-case requirements into implementation specifications and contributing to SW Design
+Leverage expert software knowledge and experience to implement and oversee the design, development, creation, modification, and validation of embedded and cloud edge software, applications, and/or specialized utility programs.
+Oversee the resolution of design, coding, and other technical issues by presenting end-to-end solutions.
+Oversee code reviews, regression tests, and the triage of issues to ensure the quality of code.
+Deploy state-of-the-art computer vision algorithms and features into commercial XR products
+Develop production code and system architectures with excellent design quality
+Expertise with modern C++ (11-20), and with writing reliable, maintainable, and idiomatic code
+Experience with multi-core programming on heterogenous mobile architectures (CPUs, GPUs, DSPs, tensor accelerators, System-on-a-Chip, embedded systems etc.)
+Outstanding problem-solving skills
+Excellent communication and team working skills
+
+Role: Software Development - Other
+Industry Type: Telecom / ISP
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: B.Tech / B.E. in Any Specialization
+PG: MS/M.Sc(Science) in Any Specialization, M.Tech in Any Specialization
+Key Skills
+C++System SoftwareEmbedded Systems

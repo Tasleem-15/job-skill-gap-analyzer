@@ -1,0 +1,130 @@
+Job description
+
+WALK-IN DRIVE SOFTWARE ENGINEERING / EMBEDDED SOFTWARE / JAVA / PYTHON
+
+Date: Monday, November 16, 2026
+Time: 10:00 AM 05:00 PM IST
+Interview Mode: Face-to-Face (In-person)
+Experience: 02 Years (Freshers are welcome)
+Qualification: B.E. / B.Tech only
+Eligible Graduation Batches: 2025 and earlier
+Not Eligible: 2026 pass-outs
+Work Location: Pune
+INTERVIEW VENUE:
+
+KARNEX Software Solutions Pvt. Ltd.
+Next Hotel Mahabaleswar, Pride Purple Accord,
+Opposite RMZ Icon, Near RMZ Icon, Pallod Farms,
+Baner, Pune, Maharashtra 411069.
+
+1. JAVA DEVELOPER
+
+Key Roles & Responsibilities:
+
+Develop, enhance and maintain software applications using Java.
+Write clean, efficient, reusable and well-structured code.
+Apply object-oriented programming (OOP) principles in application development.
+Work with Core Java concepts, including collections, exception handling, multithreading and data structures.
+Understand application requirements and contribute to technical solutions.
+Work with relational databases and perform basic SQL queries.
+Identify, troubleshoot and resolve application issues and bugs.
+Participate in code reviews, debugging and software testing activities.
+Collaborate with team members throughout the software development lifecycle.
+Required Technical Skills:
+
+Good understanding of Core Java and OOP concepts.
+Knowledge of Java Collections, Exception Handling and Multithreading.
+Understanding of Data Structures and Algorithms.
+Basic knowledge of SQL and relational databases.
+Familiarity with Spring / Spring Boot and Hibernate is an added advantage.
+Basic understanding of REST APIs and software development methodologies.
+Knowledge of Git or other version control tools is desirable.
+2. PYTHON DEVELOPER
+
+Key Roles & Responsibilities:
+
+Develop, maintain and enhance applications using Python.
+Write efficient, reusable and maintainable Python code.
+Apply programming fundamentals and object-oriented concepts to development tasks.
+Work with Python libraries and frameworks to build application functionalities.
+Understand project requirements and contribute to development activities.
+Work with databases and perform basic database operations using SQL.
+Debug code, identify technical issues and implement appropriate solutions.
+Participate in unit testing, integration testing and application debugging.
+Collaborate with development and testing teams to deliver quality software.
+Maintain technical documentation wherever required.
+Required Technical Skills:
+
+Good understanding of Python programming fundamentals.
+Knowledge of OOP concepts, Data Structures and Algorithms.
+Understanding of functions, modules, packages, exception handling and file handling.
+Basic knowledge of SQL and database management.
+Familiarity with Django / Flask / FastAPI is an added advantage.
+Basic understanding of REST APIs and JSON.
+Knowledge of Git and software development practices is desirable.
+Exposure to automation, scripting or application development projects will be an advantage.
+3. EMBEDDED LINUX KERNEL DEVELOPER
+
+Key Roles & Responsibilities:
+
+Work on Embedded Linux-based software development and maintenance activities.
+Understand Linux operating system architecture and kernel fundamentals.
+Assist in Linux kernel configuration, compilation and customization.
+Work on basic kernel-level programming and debugging activities.
+Understand device drivers and their interaction with hardware components.
+Work with Linux command-line utilities, shell scripting and development tools.
+Support debugging, troubleshooting and resolving software issues.
+Understand hardware-software interfaces and embedded system architecture.
+Work with cross-compilation tools and embedded development environments.
+Collaborate with senior engineers on embedded software development and integration activities.
+Follow coding standards and software development processes.
+Required Technical Skills:
+
+Good understanding of C programming and pointers.
+Knowledge of Data Structures and basic programming concepts.
+Understanding of Operating System fundamentals, including processes, threads, memory management and inter-process communication.
+Basic knowledge of Linux commands, shell scripting and Linux environment.
+Understanding of Linux Kernel architecture and its components.
+Basic knowledge of device drivers, kernel modules and system calls.
+Familiarity with Makefiles, GCC and GDB is desirable.
+Knowledge of microprocessors, microcontrollers and computer architecture is an added advantage.
+Exposure to Embedded C, cross-compilation and ARM architecture will be beneficial.
+ELIGIBILITY CRITERIA
+
+Freshers with strong technical fundamentals are encouraged to apply.
+Only candidates from 2025 and earlier graduation batches are eligible.
+Candidates who graduated in 2026 are strictly not eligible.
+Good analytical, logical reasoning and problem-solving skills.
+Strong willingness to learn and work on new technologies.
+Good communication and interpersonal skills.
+
+
+Role: Embedded Systems Engineer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: B.Tech / B.E. in Any Specialization
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Embedded CPythonJava
+About company
+Karnex Software Solutions Pvt Ltd.,
+
+
+An ISO ISO 9001:2015 product development and service based Software Company established in 2013
+Have branches at Pune, Jaipur and Bangalore
+Specialties in Automotive Engineering, Embedded Technologies, Semiconductor, Defence, Engineering Services, and IoT domains
+Employee size near to 500
+
+Products
+
+
+K-SIM: Vehicle Simulator
+K-STACK: AUTOSAR Base Software
+BSW K-START: Universal ECU Bootloader
+ABS development
+Company Info
+Address:
+P - 57,,Jhotwara,Shourya Vatika Nivas Road,Jaipur , JAIPUR, Rajasthan, India

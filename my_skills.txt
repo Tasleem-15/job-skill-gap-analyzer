@@ -1,0 +1,13 @@
+python
+java
+sql
+html
+css
+Javascript
+react
+algorithms
+data structures
+oops
+linux
+django
+git

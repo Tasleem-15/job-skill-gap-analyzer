@@ -1,0 +1,76 @@
+Job description
+Who We Are
+
+At Fossil Group, we are part of an international team that dares to dream, disrupt, and deliver innovative watches, jewelry, and leather goods to the world. We're committed to long-term value creation, driven by technology and our core values: Authenticity, Grit, Curiosity, Humor, and Impact.  If you are a forward-thinker who thrives in a diverse, global setting, we want to hear from you.
+
+
+
+Make an Impact
+We are seeking a Google Workspace Admin (Collaboration Support Engineer) to join our Information Technology team at Fossil Group in Bengaluru, Karnataka. If you are passionate about collaboration tools and delivering seamless end-user support, this could be the perfect role for you. In this dynamic and global company, you will play a key role in ensuring the reliability, performance, and continuous improvement of our Collaboration Services ecosystem.
+
+What you will do in this role
+Application Support & Incident Management
+
+Provide high-quality application support ensuring adherence to SLAs for response and resolution times
+Manage incidents and service requests through ITSM tools in line with IT Operations policies and procedures
+Troubleshoot and resolve low to medium complexity issues across collaboration platforms
+Analyze business impact of incidents and ensure minimal disruption to users through timely resolution
+Collaboration Tools Administration
+
+1-3 years of exp in Google Workspace Administration
+Support and maintain collaboration platforms including Google Workspace, WordPress, DocuSign, ClickUp, QuickBase, Jira, and similar tools
+Perform user administration, access management, and system configurations
+Track application updates and manage version control to ensure system stability
+Stakeholder Communication & Service Excellence
+
+Provide clear, timely communication to users and stakeholders on incidents, updates, and resolutions
+Build strong relationships with internal stakeholders to enhance service delivery and user satisfaction
+Deliver a high standard of customer service while managing competing priorities
+Documentation, Governance & Continuous Improvement
+
+Maintain accurate and up-to-date support documentation and knowledge base articles
+Ensure compliance with change and release management processes
+Monitor service metrics and suggest improvements to enhance performance and efficiency
+Participate in rotational on-call support as required
+Who You Are
+Hands-on experience as a Google Workspace Administrator
+Experience supporting collaboration tools such as WordPress, ClickUp, DocuSign, QuickBase, Jira, or similar platforms
+Experience in end-user support across multiple technologies in a global environment
+Familiarity with ServiceNow or equivalent IT Service Management tools
+Understanding of change management, release management, and software development lifecycle
+Strong analytical, troubleshooting, and problem-solving skills
+Excellent verbal and written communication skills with the ability to explain technical concepts in business terms
+Strong customer service mindset with the ability to manage stakeholders effectively
+What We Offer
+Competitive compensation and benefits package
+Support for work-life balance, including time-off programs
+Hybrid work opportunities, where applicable
+Learning and development support
+Employee product discounts
+An inclusive, collaborative, and values-driven workplace
+
+
+At Fossil Group, we embrace purpose and take every opportunity to work together to make the world a little better. We’re committed to fostering a culture of inclusivity and collaboration, where all employees are encouraged to contribute their unique selves and perspectives as valued members of our team.
+
+ 
+
+We are an Equal Employment Opportunity Employer dedicated to a policy of non-discrimination in all employment practices without regard to age, disability, gender identity or expression, marital status, pregnancy, race, religion, sexual orientation, or any other protected characteristic.
+
+ 
+
+If you need any accommodations during the interview process, just let us know at careers@fossil.com.
+
+Role: Back End Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+Key Skills
+Software DevelopmentAnalyticalWordpressDocusignConfigurationAdministrationCustomer ServiceVerbal CommunicationGoogleQuickbaseServicenowWritten CommunicationIncident ManagementTroubleshootingSoftware EngineeringCommunication SkillsJIRA
+About company
+Fossil is a design,development,marketing and distribution company that specializes in consumer products predicated on fashion and value.It is listed on the NASDAQ and revenues in 2005 exceeded US $ 1 billion.Established in 1984,Fossil was the first American brand to bring value and style to the watch category transforming the concept of timekeeping from the merely functional to chic and stylish must-haves for the wrist.Fossil offers an extensive line of watches under its proprietary FOSSIL®, RELIC®, MW®, MW MICHELE®, WRIST NET", WRIST PDA® and ZODIAC® brands and, pursuant to license agreements, some of the most prestigious brands in the world, including BURBERRY®, DIESEL®, DKNY®, MICHAEL MICHAEL KORS®, MARC JACOBS®, MARC® by MARC JACOBS and EMPORIO ARMANI®. In addition, Fossil offers jewelry under the FOSSIL and EMPORIO ARMANI brands.The Company also offers complementary lines of small leather goods, belts, handbags, sunglasses and apparel. The Company's products are sold in department stores and specialty retail stores in over 90 countries around the world, in addition to the Company's e-commerce website at www.fossil.com.To jumpstart its entry into India, Fossil has acquired the brand OyzterBay, a brand that has created the market for contemporary jewellery for young women.
+Company Info
+Address:
+Unit No 301 of Property No 8,9,10,11,12,13 and 14,Second Floor,Level 3,Prestige Nebula I and II,Cub bon Road,Bangalore,Karnataka

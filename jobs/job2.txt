@@ -1,0 +1,84 @@
+Network Implementation Engineer
+Tech Mahindra
+3.248.6K Reviews
+Tech Mahindra logo
+0 - 3 years
+Not Disclosed
+Noida, Pune, Bengaluru
+Posted: 3 days ago
+Openings: 50
+Applicants: 100+
+
+Continue with Google
+Job description
+CCNA CISCO Certification is mandatory. (Candidate must have claer the exam , training certified will not help.)
+
+
+Role & responsibilities
+
+We are seeking a Network Implementation Engineer to perform the staging, configuration, migration, and cutover of enterprise and data center network environments. This role is responsible for turning Low-Level Designs (LLDs) and High-Level Designs (HLDs) into production reality across Cisco routing, switching, wireless, and security ecosystems. The ideal candidate has deep Cisco CLI expertise, hands-on experience executing maintenance windows, and familiarity with Cisco's controller-led architectures (Catalyst Center).
+
+
+Key Roles and Responsibilities
+
+
+Implement and configure Router and Switches in enterprise environment.
+Replacement and migration of EOL router and Switches in enterprise setup.
+Understating and experience on ACL and Qos configuration.
+Bootstrap and apply golden configurations across Cisco Catalyst (9200/9300/9400/9500/9600) and ASR/ISR/Catalyst 8000,4300,1100 series routers.
+Provision Cisco Catalyst Wireless infrastructure, including 9800,5520,8500 Series Wireless LAN Controllers (WLCs) and Wi-Fi 6/6E/7 Access Points (APs).
+Onboard devices into Cisco Catalyst Center (formerly DNA Spaces/DNAC) for automated template deployment.
+Lead scheduled, off-hours maintenance windows to perform core/distribution cutovers, legacy hardware decommissioning, and software upgrades (IOS-XE / NX-OS).
+Run post-cutover operational verification: ARP/MAC table validation, OSPF/BGP neighbor adjacency checks, STP root bridge verification, and interface error monitoring.
+Implement and configure APs and WLC in enterprise environment.
+Perform AP onboarding, provisioning and configuration on WLC.
+Configure SSID, WLAN, Vlan Mapping and Wireless authentication policies.
+Configure AP groups, RF profile, Power Settings, Mobility and roaming parameters.
+Perform WLC Software upgrade, SSL certificate installation.
+
+The skills Required
+
+
+Routing- Strong knowledge and hands-on experience in BGP and OSPF.
+Knowledge on MPLS will be a advantage.
+Switching- Deep understanding on switching concept like STP, HSRP, VRRP, Portchannel, Switch Stacking, VTP.
+Wireless- Hands on experience on cisco air OS and catalyst controllers (8500,5520,9800), Access point, RF fundamentals, WLAN fundamentals.
+
+Experience & Certifications
+
+
+Experience: 6 months of hands-on deployment and migration experience specifically within production networks.
+Education Graduate from any stream (Engineering graduates preferred) or equivalent practical field experience.
+Certifications (Required or Strongly Preferred):
+Cisco CCNA (minimum prerequisite if accompanied by deep field experience),CCNP preferred.
+Cisco CCNA Wireless is a strong plus.
+Participation in off-hours change windows (nights and weekends) to minimize operational disruption.
+
+
+
+
+Location Pune /Noida/Chennai/Bangalore
+Shift – 24*7
+Work Mode – Work from office
+
+Looking for immediate joiners
+
+
+
+Role: Hardware and Networks - Other
+Industry Type: IT Services & Consulting
+Department: Engineering - Hardware & Networks
+Employment Type: Full Time, Permanent
+Role Category: Hardware and Networks - Other
+Education
+UG: Any Graduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+CCNACisco Certified
+CCNP CertifiedNetwork ImplementationRouting and SwitchingFirewallDHCPDNSCisco Certified Network Professional
+About company
+Tech Mahindra is an Indian multinational information technology services and consulting company. It was formed in 1986 as a joint venture between Mahindra & Mahindra and BT Group. Part of the Mahindra Group, the company is headquartered in Pune and has its registered office in Pune
+
+Company Info
+Address:
+SHARDA CENTRE, SHARDA CENTRE, OFF KARVE ROAD, ERANDWANA, Pune,, Maharashtra,, PUNE, Maharashtra, India

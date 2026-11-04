@@ -1,0 +1,36 @@
+Job description
+We are on the lookout for a passionate Artificial Intelligence Engineer to be a part of our dynamic team.In this role, your curiosity and deep interest in AI, machine learning, and keeping pace with a rapidly evolving field will guide your path. You will delve into extensive data sets, identify patterns, and craft predictive algorithmic models, contributing to innovative projects.
+If your a tech-savvy innovator with a drive to make a significant impact in the realm of AI, were eager for you to bring your talents to our team
+;
+AI Engineer Responsibilities
+Design and develop cutting-edge AI solutions and systems that integrate with our products and services
+Collaborate with cross-functional teams to assess business needs and identify opportunities for AI solutions
+Implement and maintain AI models, algorithms, and tools
+Conduct research and experiments to improve the performance of AI systems
+Develop and maintain documentation for AI models and algorithms
+Monitor the performance of AI systems and make recommendations for improvements
+Stay up-to-date with advancements in AI technologies and make recommendations for future development
+AI Engineer Requirements and Skills
+
+Bachelors degree in Computer Science, Engineering, or a related field
+Experience in developing and deploying AI solutions
+Proven track record of designing and implementing complex machine learning algorithms and models
+Strong programming skills in Python, R, MATLAB, or other relevant programming language
+Experience working with large datasets and data pre-processing techniques
+Strong problem-solving and analytical skills
+Excellent communication and collaboration skills
+
+
+Disclaimer : This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.
+Role: Software Development - Other
+Industry Type: Management Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+Analytical skillsC++Artificial IntelligenceMachine learningProgrammingJavascriptPHPMATLABPython
+About company
+We are the Best IT Training and Placement Company in Pune. We provide all IT Training Courses for freshers as well as for working professionals with opportunity to work on live projet.

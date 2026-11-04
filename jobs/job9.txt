@@ -1,0 +1,41 @@
+Job description
+Job Summary
+The Catalyst Engineering IOS XE Platform Independent team designs and develops high-performance system software for Cisco Enterprise Switching and Routing platforms. Our software forms a critical foundation of IOS XE and enables networking capabilities across a broad range of Cisco platforms. You will work with experienced engineers and a vibrant technical community while gaining exposure to networking, operating systems, and platform software. This is an exciting opportunity to build strong software engineering fundamentals while contributing to technologies used by enterprises worldwide.
+
+
+Responsibilities
+As a Software Engineer, you will develop and integrate software components for IOS XE platforms.
+You will write and debug C code on Linux-based systems while building a strong understanding of networking protocols and system software.
+You will collaborate with senior engineers to develop, test, troubleshoot, and deliver high-quality software.
+You will gain hands-on experience with IOS XE, networking technologies, Linux, and platform software while growing your technical expertise.
+
+
+Minimum Qualifications
+Bachelors or Masters degree in Computer Science, Software Engineering, Electrical Engineering, or a related field.
+Strong programming skills in C with understanding of software development fundamentals.
+Strong understanding of computer networking fundamentals and networking protocols.
+Hands-on knowledge of Linux operating systems and basic Linux troubleshooting.
+Knowledge of scripting languages such as Python for automation or prototyping.
+
+
+Preferred Qualifications
+Academic or project experience in C programming, Linux, or networking.
+Understanding of L2/L3 networking concepts, QoS, ACLs, or routing protocols.
+Exposure to operating system concepts such as processes, memory management, IPC, and concurrency.
+Experience with debugging tools and software development environments.
+Strong interest in learning networking and system software technologies.
+
+
+Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.
+Role: Post Silicon Test Engineer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Quality Assurance and Testing
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+aiautomationbankingc programmingcatalystciscocomputer networkingconcurrencydebugdebuggingdebugging toolselectrical engineeringl3 networkinglaw enforcementlinuxlinux troubleshootingmemory managementnetworking
+About company
+Cisco is the worldwide technology leader that is revolutionizing the way organizations connect and protect in the AI era. For more than 40 years, Cisco has securely connected the world. With its industry leading AI-powered solutions and services, Cisco enables its customers, partners and communities to unlock innovation, enhance productivity and strengthen digital resilience. With purpose at its core, Cisco remains committed to creating a more connected and inclusive future for all.

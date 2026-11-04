@@ -1,0 +1,41 @@
+Job description
+>
+Implements the streaming telemetry subsystem for our network operating system, under a Senior Engineers guidance.
+Key Responsibilities
+Implement telemetry data collectors for protocol state, interface statistics, and system metrics
+Implement YANG-Push subscriptions (RFC 8641) and gRPC/gNMI streaming (Subscribe RPC, JSON_IETF/protobuf encoding)
+Implement a Prometheus exporter and OpenTelemetry (OTLP) integration for metrics and traces
+Write comprehensive unit tests for data collectors, subscriptions, and exporters, and measure collection overhead
+Debug the telemetry pipeline end to end - from collectors to exporters - verifying data accuracy and encoding
+Requirements
+0-3 years of software development experience (fresh graduates with strong Python/systems monitoring skills welcome)
+Strong understanding of systems monitoring and observability concepts
+Hands-on experience with Python programming and data collection (coursework or personal projects)
+Basic knowledge of networking concepts (interfaces, protocols, network statistics)
+Nice to Have
+Personal projects involving system monitoring or telemetry collection
+Open-source contributions to monitoring tools (Prometheus exporters, Telegraf plugins)
+Experience with time-series databases (InfluxDB, Prometheus, Grafana)
+Understanding of SNMP protocol and MIB structure
+Key Skills
+Python YANG-Push (RFC 8641) gRPC/gNMI Prometheus OpenTelemetry Protocol Buffers Flask/FastAPI pytest
+What You ll Gain
+Hands-on experience with production-grade telemetry and observability systems
+Mentorship from experienced Senior Engineers and Principal Engineers
+Deep technical skills in streaming telemetry and network monitoring
+Career growth path to Senior Engineer and beyond
+
+
+This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.
+Role: Blockchain Quality Assurance Engineer
+Industry Type: Industrial Equipment / Machinery
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Quality Assurance and Testing
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+data collectiondebugflaskgrafanagrpcinfluxdbmonitoring toolsnetwork monitoringnetworkingnetworking conceptsobservabilityoperating systempluginsprogrammingprometheusprotocol bufferspytestpythonpython programming
+About company
+UMIYA BUILDCON LIMITED, through its association with MRO-TEK, operates in the electronics and manufacturing sector, specializing in networking and communication equipment. It focuses on delivering reliable hardware solutions, infrastructure products, and technology services to support enterprise connectivity and telecom needs. The company emphasizes innovation, quality engineering, and customer-centric delivery, while offering career opportunities in manufacturing, RD, sales, and technical support within the electronics and communication equipment sector

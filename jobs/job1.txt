@@ -1,0 +1,26 @@
+Job description
+
+Key Responsibilities:
+
+
+The Graduate Software Engineer will be responsible for designing, developing, testing, debugging, and maintaining software applications and components. The role involves working with programming languages, APIs, system integrations, databases, cloud services, and AI-enabled applications. The candidate will participate in the complete software development lifecycle, including coding, unit testing, debugging, code reviews, and technical problem-solving. They will collaborate with senior developers and cross-functional teams to build scalable, reliable, and efficient software solutions. The role also involves contributing to AI-based projects, supporting application integrations, working with SQL databases, and gaining hands-on exposure to Integration, AI, Data, and Cloud technologies while continuously learning and adopting emerging tools, frameworks, and development practices.
+
+
+
+Role: Software Development - Other
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: B.Tech / B.E. in Any Specialization
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Artificial Intelligence
+JavaPython.NET
+About company
+iSteer is a global technology services and consulting organisation helping enterprises accelerate digital transformation through enterprise integration, automation, data & AI, cloud and product engineering. Its Product & AI Business
+
+Solutions portfolio brings together technology products, AI-led solutions and associated services to address enterprise
+
+business challenges
